@@ -21,4 +21,3 @@ Remember that after cloning this repo to make your own branch.
 DM me on slack when you're done and push your branch onto this repo. DO NOT merge with main or create a PR, I'll go to your branch myself and check your code.
 
 Let me know if you have any questions.
-# website-fa-22-first-site
